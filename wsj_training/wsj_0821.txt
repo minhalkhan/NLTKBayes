@@ -1,0 +1,4 @@
+The <ENAMEX TYPE="ORGANIZATION">World Bank</ENAMEX> approved $363 million in loans to the <ENAMEX TYPE="LOCATION">Ivory Coast</ENAMEX> and <ENAMEX TYPE="LOCATION">Brazil</ENAMEX>.
+The <ENAMEX TYPE="LOCATION">Ivory Coast</ENAMEX> will get two loans totaling $216 million to support agricultural reforms and help finance municipal development in more than 30 cities.
+<ENAMEX TYPE="LOCATION">Brazil</ENAMEX> will get two loans amounting to $147 million for schools, roads and other projects in urban areas and to help finance agricultural research projects in the <ENAMEX TYPE="LOCATION">Amazon</ENAMEX> and northeastern regions of the country.
+The loans will be at variable interest rates, currently 7.74% a year.

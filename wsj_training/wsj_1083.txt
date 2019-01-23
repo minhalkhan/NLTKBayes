@@ -1,0 +1,3 @@
+<ENAMEX TYPE="ORGANIZATION">Coda Energy Inc.</ENAMEX> said it completed the sale of <ENAMEX TYPE="ORGANIZATION">Phenix-Transmission Co.</ENAMEX> to <ENAMEX TYPE="ORGANIZATION">Bishop Pipeline Co.</ENAMEX>, for $17 million in cash and notes.
+<ENAMEX TYPE="PERSON">Coda</ENAMEX>, an oil and gas concern, said it and its partners received $7 million in cash and $10 million in five-year notes for the <ENAMEX TYPE="LOCATION">Kansas</ENAMEX> intrastate pipeline. Coda owned 60% of the pipeline and private entities owned the rest.
+Bishop is based in <ENAMEX TYPE="LOCATION">Hutchinson</ENAMEX>, <ENAMEX TYPE="LOCATION">Kansas</ENAMEX>.
